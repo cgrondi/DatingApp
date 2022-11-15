@@ -14,3 +14,18 @@ input[type=file]
 {
   color: transparent;
 }
+
+.not-approved{
+  opacity: 0.2;
+}
+
+.img-wrapper{
+  position: relative;
+}
+
+.img-text{
+  position: absolute;
+  overflow-wrap:break-word;
+  width: 125px;
+  bottom: 30%;
+}
